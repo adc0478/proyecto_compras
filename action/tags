@@ -1,0 +1,511 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/opt/lampp/htdocs/compras/action/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+.abrir	/opt/lampp/htdocs/compras/css/menu.css	/^.abrir{$/;"	c
+.accion	/opt/lampp/htdocs/compras/css/compras.css	/^.accion{$/;"	c
+.accion	/opt/lampp/htdocs/compras/css/productos.css	/^ .accion{$/;"	c
+.accion	/opt/lampp/htdocs/compras/css/productos.css	/^.accion{$/;"	c
+.accion div	/opt/lampp/htdocs/compras/css/productos.css	/^.accion div{$/;"	s
+.borrado	/opt/lampp/htdocs/compras/css/compras.css	/^.borrado{$/;"	c
+.btn	/opt/lampp/htdocs/compras/css/agregar.css	/^.btn{$/;"	c
+.btn	/opt/lampp/htdocs/compras/css/componentes.css	/^.btn{$/;"	c
+.btn	/opt/lampp/htdocs/compras/css/compras.css	/^.btn{$/;"	c
+.btn	/opt/lampp/htdocs/compras/css/login.css	/^.btn{$/;"	c
+.btn	/opt/lampp/htdocs/compras/css/productos.css	/^.btn{$/;"	c
+.btn:hover	/opt/lampp/htdocs/compras/css/compras.css	/^.btn:hover{$/;"	c
+.btn:hover	/opt/lampp/htdocs/compras/css/login.css	/^.btn:hover{$/;"	c
+.btn_menu	/opt/lampp/htdocs/compras/css/menu.css	/^ .btn_menu{$/;"	c
+.btn_menu	/opt/lampp/htdocs/compras/css/menu.css	/^.btn_menu{$/;"	c
+.btn_menu img	/opt/lampp/htdocs/compras/css/menu.css	/^.btn_menu img{$/;"	s
+.cerrar	/opt/lampp/htdocs/compras/css/menu.css	/^.cerrar{$/;"	c
+.cierre_menu	/opt/lampp/htdocs/compras/css/menu.css	/^.cierre_menu{$/;"	c
+.cierre_menu img	/opt/lampp/htdocs/compras/css/menu.css	/^.cierre_menu img{$/;"	s
+.contenido	/opt/lampp/htdocs/compras/css/login.css	/^   .contenido{$/;"	c
+.contenido	/opt/lampp/htdocs/compras/css/login.css	/^.contenido{$/;"	c
+.contenido form	/opt/lampp/htdocs/compras/css/login.css	/^.contenido form{$/;"	s
+.contenido form div	/opt/lampp/htdocs/compras/css/login.css	/^.contenido form div{$/;"	s
+.contenido_index	/opt/lampp/htdocs/compras/estilos.css	/^.contenido_index {$/;"	c
+.filtro	/opt/lampp/htdocs/compras/css/compras.css	/^.filtro {$/;"	c
+.filtro	/opt/lampp/htdocs/compras/css/productos.css	/^.filtro{$/;"	c
+.filtro button	/opt/lampp/htdocs/compras/css/productos.css	/^.filtro button,select{$/;"	s
+.filtro button	/opt/lampp/htdocs/compras/css/productos.css	/^.filtro button{$/;"	s
+.filtro select	/opt/lampp/htdocs/compras/css/compras.css	/^.filtro select, button{$/;"	s
+.foot	/opt/lampp/htdocs/compras/estilos.css	/^ .foot{$/;"	c
+.foot	/opt/lampp/htdocs/compras/estilos.css	/^.foot{$/;"	c
+.foot img	/opt/lampp/htdocs/compras/estilos.css	/^.foot img {$/;"	s
+.invisible	/opt/lampp/htdocs/compras/css/compras.css	/^.invisible{$/;"	c
+.menu	/opt/lampp/htdocs/compras/css/menu.css	/^.menu{$/;"	c
+.mseleccion	/opt/lampp/htdocs/compras/css/menu.css	/^.mseleccion{$/;"	c
+.mseleccion a	/opt/lampp/htdocs/compras/css/menu.css	/^.mseleccion a{$/;"	s
+.registro	/opt/lampp/htdocs/compras/css/login.css	/^.registro{$/;"	c
+.separador	/opt/lampp/htdocs/compras/css/agregar.css	/^.separador{$/;"	c
+AllowEmpty	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $AllowEmpty = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+AltBody	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $AltBody = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Archivos	/opt/lampp/htdocs/compras/clases/archivos.php	/^class Archivos{$/;"	c
+AuthType	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $AuthType = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+BD	/opt/lampp/htdocs/compras/clases/coneccion.php	/^  private $BD;$/;"	v	class:Conexion
+BD	/opt/lampp/htdocs/compras/conexion.php	/^        $BD =  "compras"; \/\/  id15912427_trabajo$/;"	v
+Body	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Body = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+CHARSET_ASCII	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const CHARSET_ASCII = 'us-ascii';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CHARSET_ISO88591	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const CHARSET_ISO88591 = 'iso-8859-1';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CHARSET_UTF8	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const CHARSET_UTF8 = 'utf-8';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_MULTIPART_ALTERNATIVE	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const CONTENT_TYPE_MULTIPART_ALTERNATIVE = 'multipart\/alternative';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_MULTIPART_MIXED	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const CONTENT_TYPE_MULTIPART_MIXED = 'multipart\/mixed';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_MULTIPART_RELATED	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const CONTENT_TYPE_MULTIPART_RELATED = 'multipart\/related';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_PLAINTEXT	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const CONTENT_TYPE_PLAINTEXT = 'text\/plain';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_TEXT_CALENDAR	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const CONTENT_TYPE_TEXT_CALENDAR = 'text\/calendar';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_TEXT_HTML	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const CONTENT_TYPE_TEXT_HTML = 'text\/html';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CRLF	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const CRLF = "\\r\\n";$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+Cargar_usuario	/opt/lampp/htdocs/compras/clases/cargar_usuario.php	/^class Cargar_usuario$/;"	c
+CharSet	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $CharSet = self::CHARSET_ISO88591;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Conexion	/opt/lampp/htdocs/compras/clases/coneccion.php	/^class Conexion{$/;"	c
+ConfirmReadingTo	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $ConfirmReadingTo = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+ContentType	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $ContentType = self::CONTENT_TYPE_PLAINTEXT;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+CustomHeader	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $CustomHeader = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DEBUG_CLIENT	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    const DEBUG_CLIENT = 1;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DEBUG_CONNECTION	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    const DEBUG_CONNECTION = 3;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DEBUG_LOWLEVEL	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    const DEBUG_LOWLEVEL = 4;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DEBUG_OFF	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    const DEBUG_OFF = 0;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DEBUG_SERVER	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    const DEBUG_SERVER = 2;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DEFAULT_PORT	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    const DEFAULT_PORT = 25;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DKIM_Add	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function DKIM_Add($headers_line, $subject, $body)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_BodyC	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function DKIM_BodyC($body)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_HeaderC	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function DKIM_HeaderC($signHeader)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_QP	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function DKIM_QP($txt)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_Sign	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function DKIM_Sign($signHeader)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_copyHeaderFields	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $DKIM_copyHeaderFields = true;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_domain	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $DKIM_domain = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_extraHeaders	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $DKIM_extraHeaders = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_identity	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $DKIM_identity = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_passphrase	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $DKIM_passphrase = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_private	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $DKIM_private = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_private_string	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $DKIM_private_string = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_selector	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $DKIM_selector = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Debugoutput	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Debugoutput = 'echo';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Debugoutput	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public $Debugoutput = 'echo';$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+Driver	/opt/lampp/htdocs/compras/clases/interface.php	/^class Driver{$/;"	c
+ENCODING_7BIT	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ENCODING_7BIT = '7bit';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCODING_8BIT	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ENCODING_8BIT = '8bit';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCODING_BASE64	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ENCODING_BASE64 = 'base64';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCODING_BINARY	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ENCODING_BINARY = 'binary';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCODING_QUOTED_PRINTABLE	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ENCODING_QUOTED_PRINTABLE = 'quoted-printable';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCRYPTION_SMTPS	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ENCRYPTION_SMTPS = 'ssl';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCRYPTION_STARTTLS	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ENCRYPTION_STARTTLS = 'tls';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+Encoding	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Encoding = self::ENCODING_8BIT;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Envio_mail	/opt/lampp/htdocs/compras/clases/mail.php	/^class Envio_mail$/;"	c
+ErrorInfo	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $ErrorInfo = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Exception	/opt/lampp/htdocs/compras/clases/Exception.php	/^class Exception extends \\Exception$/;"	c	namespace:PHPMailer\\PHPMailer
+Exception	/opt/lampp/htdocs/compras/clases/mail.php	/^use PHPMailer\\PHPMailer\\Exception;$/;"	a	typeref:unknown:PHPMailer\\PHPMailer\\Exception
+FWS	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const FWS = ' ';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+From	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $From = 'root@localhost';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+FromName	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $FromName = 'Root User';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Helo	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Helo = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Host	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Host = 'localhost';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Hostname	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Hostname = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_ADD	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ICAL_METHOD_ADD = 'ADD';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_CANCEL	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ICAL_METHOD_CANCEL = 'CANCEL';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_COUNTER	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ICAL_METHOD_COUNTER = 'COUNTER';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_DECLINECOUNTER	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ICAL_METHOD_DECLINECOUNTER = 'DECLINECOUNTER';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_PUBLISH	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ICAL_METHOD_PUBLISH = 'PUBLISH';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_REFRESH	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ICAL_METHOD_REFRESH = 'REFRESH';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_REPLY	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ICAL_METHOD_REPLY = 'REPLY';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_REQUEST	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const ICAL_METHOD_REQUEST = 'REQUEST';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+Ical	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Ical = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+IcalMethods	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected static $IcalMethods = [$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+LE	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected static $LE = self::CRLF;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+LE	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    const LE = "\\r\\n";$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+Layer_1	/opt/lampp/htdocs/compras/icons/fb_icon-icons.com_65434.svg	/^<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.or/;"	i
+Layer_1	/opt/lampp/htdocs/compras/icons/instagram_f_icon-icons.com_65485.svg	/^<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.or/;"	i
+Login	/opt/lampp/htdocs/compras/clases/login.php	/^class Login$/;"	c
+MAIL_MAX_LINE_LENGTH	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const MAIL_MAX_LINE_LENGTH = 63;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+MAX_LINE_LENGTH	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const MAX_LINE_LENGTH = 998;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+MAX_LINE_LENGTH	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    const MAX_LINE_LENGTH = 998;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+MAX_REPLY_LENGTH	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    const MAX_REPLY_LENGTH = 512;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+MIMEBody	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $MIMEBody = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+MIMEHeader	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $MIMEHeader = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Mailer	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Mailer = 'mail';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+MessageDate	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $MessageDate = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+MessageID	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $MessageID = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+PHPMailer	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^class PHPMailer$/;"	c	namespace:PHPMailer\\PHPMailer
+PHPMailer	/opt/lampp/htdocs/compras/clases/mail.php	/^use PHPMailer\\PHPMailer\\PHPMailer;$/;"	a	typeref:unknown:PHPMailer\\PHPMailer\\PHPMailer
+PHPMailer\\PHPMailer	/opt/lampp/htdocs/compras/clases/Exception.php	/^namespace PHPMailer\\PHPMailer;$/;"	n
+PHPMailer\\PHPMailer	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^namespace PHPMailer\\PHPMailer;$/;"	n
+PHPMailer\\PHPMailer	/opt/lampp/htdocs/compras/clases/SMTP.php	/^namespace PHPMailer\\PHPMailer;$/;"	n
+Password	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Password = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Port	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Port = 25;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Priority	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Priority;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+RecipientsQueue	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $RecipientsQueue = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+ReplyTo	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $ReplyTo = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+ReplyToQueue	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $ReplyToQueue = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SMTP	/opt/lampp/htdocs/compras/clases/SMTP.php	/^class SMTP$/;"	c	namespace:PHPMailer\\PHPMailer
+SMTPAuth	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $SMTPAuth = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SMTPAutoTLS	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $SMTPAutoTLS = true;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SMTPDebug	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $SMTPDebug = 0;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SMTPKeepAlive	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $SMTPKeepAlive = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SMTPOptions	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $SMTPOptions = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SMTPSecure	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $SMTPSecure = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+STD_LINE_LENGTH	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const STD_LINE_LENGTH = 76;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+STOP_CONTINUE	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const STOP_CONTINUE = 1;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+STOP_CRITICAL	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const STOP_CRITICAL = 2;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+STOP_MESSAGE	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const STOP_MESSAGE = 0;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+Sender	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Sender = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Sendmail	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Sendmail = '\/usr\/sbin\/sendmail';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SingleTo	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $SingleTo = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SingleToArray	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $SingleToArray = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Subject	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Subject = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Timelimit	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public $Timelimit = 300;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+Timeout	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Timeout = 300;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Timeout	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public $Timeout = 300;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+UseSendmailOptions	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $UseSendmailOptions = true;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Username	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $Username = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+VERSION	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    const VERSION = '6.4.1';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+VERSION	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    const VERSION = '6.4.1';$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+WordWrap	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $WordWrap = 0;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+XMailer	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $XMailer = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+__construct	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function __construct($exceptions = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+__construct	/opt/lampp/htdocs/compras/clases/archivos.php	/^  function __construct($archivo, $datos=array())$/;"	f	class:Archivos
+__construct	/opt/lampp/htdocs/compras/clases/cargar_usuario.php	/^  function __construct($user){$/;"	f	class:Cargar_usuario
+__construct	/opt/lampp/htdocs/compras/clases/coneccion.php	/^  public function __construct()$/;"	f	class:Conexion
+__construct	/opt/lampp/htdocs/compras/clases/interface.php	/^  function __construct()$/;"	f	class:Driver
+__construct	/opt/lampp/htdocs/compras/clases/login.php	/^  function __construct($nombre,$apellido,$correo,$clave,$tabla)$/;"	f	class:Login
+__construct	/opt/lampp/htdocs/compras/clases/mail.php	/^  function __construct($destino,$origen,$nombre,$encabezado,$mensaje)$/;"	f	class:Envio_mail
+__destruct	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function __destruct()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+__destruct	/opt/lampp/htdocs/compras/clases/coneccion.php	/^  public function __destruct()$/;"	f	class:Conexion
+_mime_types	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function _mime_types($ext = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+action_function	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $action_function = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+addAddress	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function addAddress($address, $name = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addAnAddress	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function addAnAddress($kind, $address, $name = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addAttachment	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function addAttachment($/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addBCC	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function addBCC($address, $name = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addCC	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function addCC($address, $name = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addCustomHeader	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function addCustomHeader($name, $value = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addEmbeddedImage	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function addEmbeddedImage($/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addOrEnqueueAnAddress	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function addOrEnqueueAnAddress($kind, $address, $name)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addReplyTo	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function addReplyTo($address, $name = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addStringAttachment	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function addStringAttachment($/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addStringEmbeddedImage	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function addStringEmbeddedImage($/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addrAppend	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function addrAppend($type, $addr)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addrFormat	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function addrFormat($addr)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+agregarOpcionesdeTipo	/opt/lampp/htdocs/compras/clases/opciones.php	/^function agregarOpcionesdeTipo($tabla, $campo){$/;"	f
+agregar_opciones_agrupadas	/opt/lampp/htdocs/compras/clases/opciones.php	/^function agregar_opciones_agrupadas ($tabla, $campo){$/;"	f
+all_recipients	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $all_recipients = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+alternativeExists	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function alternativeExists()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+apellido	/opt/lampp/htdocs/compras/clases/login.php	/^  private $apellido;$/;"	v	class:Login
+archivo	/opt/lampp/htdocs/compras/clases/archivos.php	/^  private $archivo;$/;"	v	class:Archivos
+atributos	/opt/lampp/htdocs/compras/js/nodos.js	/^	this.atributos = function (val_id,atri,valor){$/;"	m	class:nodos
+attachAll	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function attachAll($disposition_type, $boundary)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+attachment	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $attachment = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+attachmentExists	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function attachmentExists()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+authenticate	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function authenticate($/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+base64EncodeWrapMB	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function base64EncodeWrapMB($str, $linebreak = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+bcc	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $bcc = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+body	/opt/lampp/htdocs/compras/estilos.css	/^body{$/;"	s
+borrar	/opt/lampp/htdocs/compras/clases/archivos.php	/^  function borrar(){$/;"	f	class:Archivos
+borrar	/opt/lampp/htdocs/compras/clases/interface.php	/^  function borrar($tabla,$condicion){$/;"	f	class:Driver
+borrar	/opt/lampp/htdocs/compras/js/nodos.js	/^	this.borrar = function (val_id,padre_id){$/;"	m	class:nodos
+boundary	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $boundary = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+button	/opt/lampp/htdocs/compras/css/compras.css	/^.filtro select, button{$/;"	s
+cantidad	/opt/lampp/htdocs/compras/agregarelemento.php	/^  $cantidad = $_POST['cantidad'];$/;"	v
+cantidad	/opt/lampp/htdocs/compras/comprar.php	/^	$cantidad = $_POST['cantidad'];$/;"	v
+cargar_contenido_tabla	/opt/lampp/htdocs/compras/action/obtener_tabla_metricas.php	/^function cargar_contenido_tabla(){$/;"	f
+cargar_datos	/opt/lampp/htdocs/compras/paginas/agregarproducto.php	/^function cargar_datos(){$/;"	f
+cargar_tabla	/opt/lampp/htdocs/compras/paginas/compras.php	/^function cargar_tabla(){$/;"	f
+cargar_tabla	/opt/lampp/htdocs/compras/paginas/listaproductos.php	/^function cargar_tabla(){$/;"	f
+cc	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $cc = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+cerrar_session	/opt/lampp/htdocs/compras/clases/login.php	/^  public function cerrar_session(){$/;"	f	class:Login
+cidExists	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function cidExists($cid)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clave	/opt/lampp/htdocs/compras/clases/login.php	/^  private $clave;$/;"	v	class:Login
+claveBD	/opt/lampp/htdocs/compras/conexion.php	/^        $claveBD="";\/\/ bgP3ak&9G\\(Y3>T?$/;"	v
+clave_hash	/opt/lampp/htdocs/compras/clases/login.php	/^  private $clave_hash;$/;"	v	class:Login
+clave_mail	/opt/lampp/htdocs/compras/clases/mail.php	/^  private $clave_mail="ulwd lbfo npzg xgii";$/;"	v	class:Envio_mail
+clearAddresses	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function clearAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearAllRecipients	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function clearAllRecipients()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearAttachments	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function clearAttachments()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearBCCs	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function clearBCCs()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearCCs	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function clearCCs()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearCustomHeaders	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function clearCustomHeaders()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearQueuedAddresses	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function clearQueuedAddresses($kind)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearReplyTos	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function clearReplyTos()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+client_send	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function client_send($data, $command = '')$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+close	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function close()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+cod	/opt/lampp/htdocs/compras/quitarprod.php	/^  $cod = $_GET['codigo'];$/;"	v
+codigo	/opt/lampp/htdocs/compras/agregarelemento.php	/^  $codigo = $_POST['codigo'];$/;"	v
+codigo	/opt/lampp/htdocs/compras/nuevoproducto.php	/^$codigo = $_POST['codigo'];$/;"	v
+con	/opt/lampp/htdocs/compras/action/carga_opcion_metrica.php	/^$con = new Conexion();$/;"	v
+con	/opt/lampp/htdocs/compras/agregarelemento.php	/^  $con = new Conexion();$/;"	v
+con	/opt/lampp/htdocs/compras/comprar.php	/^	$con = new Conexion();$/;"	v
+con	/opt/lampp/htdocs/compras/nuevoproducto.php	/^$con = new Conexion();$/;"	v
+con	/opt/lampp/htdocs/compras/quitar_carro.php	/^  $con = new Conexion();$/;"	v
+con	/opt/lampp/htdocs/compras/quitarprod.php	/^  $con = new Conexion();$/;"	v
+connect	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function connect($host, $port = null, $timeout = 30, $options = [])$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+connected	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function connected()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+consulta	/opt/lampp/htdocs/compras/clases/interface.php	/^  function consulta ($tabla,$condicion,$campos){$/;"	f	class:Driver
+correo	/opt/lampp/htdocs/compras/clases/login.php	/^  private $correo;$/;"	v	class:Login
+crear	/opt/lampp/htdocs/compras/js/nodos.js	/^	this.crear = function (tipo,val_id,val_class,padre_id){$/;"	m	class:nodos
+crearTexto	/opt/lampp/htdocs/compras/js/nodos.js	/^	this.crearTexto= function(padre_id,texto){$/;"	m	class:nodos
+crear_etiqueta	/opt/lampp/htdocs/compras/js/nodos.js	/^        this.crear_etiqueta = function (padre_id,etiqueta){$/;"	m	class:nodos
+createBody	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function createBody()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+createHeader	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function createHeader()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+data	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function data($msg_data)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+destino	/opt/lampp/htdocs/compras/clases/mail.php	/^  private $destino;$/;"	v	class:Envio_mail
+desvectorizar	/opt/lampp/htdocs/compras/clases/archivos.php	/^  private function desvectorizar($vector,$separador){$/;"	f	class:Archivos
+detalle	/opt/lampp/htdocs/compras/nuevoproducto.php	/^$detalle = $_POST['detalle'];$/;"	v
+doCallback	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function doCallback($isSent, $to, $cc, $bcc, $subject, $body, $from, $extra)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+do_debug	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public $do_debug = self::DEBUG_OFF;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+do_verp	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $do_verp = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+do_verp	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public $do_verp = false;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+dsn	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public $dsn = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+edebug	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function edebug($str)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+edebug	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected function edebug($str, $level = 0)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+encabezado	/opt/lampp/htdocs/compras/clases/mail.php	/^  private $encabezado;$/;"	v	class:Envio_mail
+encodeFile	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function encodeFile($path, $encoding = self::ENCODING_BASE64)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+encodeHeader	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function encodeHeader($str, $position = 'text')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+encodeQ	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function encodeQ($str, $position = 'text')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+encodeQP	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function encodeQP($string)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+encodeString	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function encodeString($str, $encoding = self::ENCODING_BASE64)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+endBoundary	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function endBoundary($boundary)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+enviar	/opt/lampp/htdocs/compras/clases/mail.php	/^  public function enviar(){$/;"	f	class:Envio_mail
+error	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected $error = [$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+errorHandler	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected function errorHandler($errno, $errmsg, $errfile = '', $errline = 0)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+errorMessage	/opt/lampp/htdocs/compras/clases/Exception.php	/^    public function errorMessage()$/;"	f	class:PHPMailer\\PHPMailer\\Exception
+error_count	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $error_count = 0;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+escribir	/opt/lampp/htdocs/compras/clases/archivos.php	/^  function escribir (){$/;"	f	class:Archivos
+exceptions	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $exceptions = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+fecha	/opt/lampp/htdocs/compras/comprar.php	/^	$fecha = $_POST['fecha'];$/;"	v
+file	/opt/lampp/htdocs/compras/clases/archivos.php	/^  private $file;$/;"	v	class:Archivos	typeref:unknown:array
+fileIsAccessible	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected static function fileIsAccessible($path)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+filenameToType	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function filenameToType($filename)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+form	/opt/lampp/htdocs/compras/css/agregar.css	/^   form{$/;"	s
+form	/opt/lampp/htdocs/compras/css/agregar.css	/^form{$/;"	s
+form div	/opt/lampp/htdocs/compras/css/agregar.css	/^form div{$/;"	s
+form div input	/opt/lampp/htdocs/compras/css/agregar.css	/^   form div input,select{$/;"	s
+generateId	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function generateId()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getAllRecipientAddresses	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getAllRecipientAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getAttachments	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getAttachments()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getBccAddresses	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getBccAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getBoundary	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function getBoundary($boundary, $charSet, $contentType, $encoding)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getCcAddresses	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getCcAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getCustomHeaders	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getCustomHeaders()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getDebugLevel	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function getDebugLevel()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getDebugOutput	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function getDebugOutput()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getError	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function getError()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getLE	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function getLE()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getLastMessageID	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getLastMessageID()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getLastReply	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function getLastReply()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getLastTransactionID	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function getLastTransactionID()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getMailMIME	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getMailMIME()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getOAuth	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getOAuth()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getReplyToAddresses	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getReplyToAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getSMTPConnection	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected function getSMTPConnection($host, $port = null, $timeout = 30, $options = [])$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getSMTPInstance	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getSMTPInstance()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getSentMIMEMessage	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getSentMIMEMessage()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getServerExt	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function getServerExt($name)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getServerExtList	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function getServerExtList()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getTimeout	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function getTimeout()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getToAddresses	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getToAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getTranslations	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function getTranslations()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getVerp	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function getVerp()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+get_lines	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected function get_lines()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+get_usuario	/opt/lampp/htdocs/compras/clases/cargar_usuario.php	/^  function get_usuario (){$/;"	f	class:Cargar_usuario
+h2	/opt/lampp/htdocs/compras/css/agregar.css	/^h2 {$/;"	s
+h2	/opt/lampp/htdocs/compras/css/compras.css	/^ h2{$/;"	s
+h2	/opt/lampp/htdocs/compras/css/compras.css	/^h2{$/;"	s
+h2	/opt/lampp/htdocs/compras/css/login.css	/^h2{$/;"	s
+h2	/opt/lampp/htdocs/compras/css/productos.css	/^ h2{$/;"	s
+h2	/opt/lampp/htdocs/compras/css/productos.css	/^h2{$/;"	s
+has8bitChars	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function has8bitChars($text)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+hasLineLongerThanMax	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function hasLineLongerThanMax($str)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+hasMultiBytes	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function hasMultiBytes($str)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+headerLine	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function headerLine($name, $value)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+hello	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function hello($host = '')$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+helo_rply	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected $helo_rply;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+hmac	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected function hmac($data, $key)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+host	/opt/lampp/htdocs/compras/clases/mail.php	/^  private $host="smtp.mail.yahoo.com";$/;"	v	class:Envio_mail
+html	/opt/lampp/htdocs/compras/estilos.css	/^html{$/;"	s
+html2text	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function html2text($html, $advanced = false)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+id	/opt/lampp/htdocs/compras/agregarelemento.php	/^  $id = $_POST['identificacion'];$/;"	v
+id	/opt/lampp/htdocs/compras/comprar.php	/^	$id = $_POST['id'];$/;"	v
+id	/opt/lampp/htdocs/compras/quitar_carro.php	/^  $id = $_GET['id']; $/;"	v
+idnSupported	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function idnSupported()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+ingresar	/opt/lampp/htdocs/compras/clases/login.php	/^  public function ingresar(){$/;"	f	class:Login
+inlineImageExists	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function inlineImageExists()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+input	/opt/lampp/htdocs/compras/css/agregar.css	/^input, select{$/;"	s
+input	/opt/lampp/htdocs/compras/css/compras.css	/^ input{$/;"	s
+input	/opt/lampp/htdocs/compras/css/compras.css	/^input{$/;"	s
+input	/opt/lampp/htdocs/compras/css/login.css	/^   input{$/;"	s
+input	/opt/lampp/htdocs/compras/css/login.css	/^input {$/;"	s
+input	/opt/lampp/htdocs/compras/css/productos.css	/^ input{$/;"	s
+input	/opt/lampp/htdocs/compras/css/productos.css	/^input{$/;"	s
+insertar	/opt/lampp/htdocs/compras/clases/interface.php	/^  function insertar ($valores,$tabla,$condicion){$/;"	f	class:Driver
+isError	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function isError()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isHTML	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function isHTML($isHtml = true)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isMail	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function isMail()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isPermittedPath	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected static function isPermittedPath($path)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isQmail	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function isQmail()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isSMTP	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function isSMTP()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isSendmail	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function isSendmail()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isShellSafe	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected static function isShellSafe($string)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isValidHost	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function isValidHost($host)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+label	/opt/lampp/htdocs/compras/css/login.css	/^label{$/;"	s
+lang	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function lang($key)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+language	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $language = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+lastMessageID	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $lastMessageID = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+last_reply	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected $last_reply = '';$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+last_smtp_transaction_id	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected $last_smtp_transaction_id;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+levantar_registro	/opt/lampp/htdocs/compras/clases/archivos.php	/^  function levantar_registro(){$/;"	f	class:Archivos
+li	/opt/lampp/htdocs/compras/css/menu.css	/^ li{$/;"	s
+li	/opt/lampp/htdocs/compras/css/menu.css	/^li{$/;"	s
+li a	/opt/lampp/htdocs/compras/css/menu.css	/^  li a{$/;"	s
+li a	/opt/lampp/htdocs/compras/css/menu.css	/^li a{$/;"	s
+li a:hover	/opt/lampp/htdocs/compras/css/menu.css	/^li a:hover{$/;"	s
+login	/opt/lampp/htdocs/compras/ingreso.php	/^$login = new Login("","",$_POST['correo'],$_POST['clave'],"usuarios");$/;"	v
+login	/opt/lampp/htdocs/compras/registrar.php	/^$login = new Login($_POST['nombre'],$_POST['apellido'],$_POST['correo'],$_POST['clave'],'usuario/;"	v
+mail	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function mail($from)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+mailHeader	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $mailHeader = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+mailPassthru	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    private function mailPassthru($to, $subject, $body, $header, $params)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+mailSend	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function mailSend($header, $body)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+mb_pathinfo	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function mb_pathinfo($path, $options = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+mensaje	/opt/lampp/htdocs/compras/clases/mail.php	/^  private $mensaje;$/;"	v	class:Envio_mail
+message_type	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $message_type = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+modificar	/opt/lampp/htdocs/compras/clases/interface.php	/^  function modificar ($tabla,$condicion,$pares){$/;"	f	class:Driver
+msgHTML	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function msgHTML($message, $basedir = '', $advanced = false)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+nodos	/opt/lampp/htdocs/compras/js/nodos.js	/^function nodos(){$/;"	c
+nombre	/opt/lampp/htdocs/compras/clases/login.php	/^  private $nombre;$/;"	v	class:Login
+nombre_origen	/opt/lampp/htdocs/compras/clases/mail.php	/^  private $nombre_origen;$/;"	v	class:Envio_mail
+noop	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function noop()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+normalizeBreaks	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function normalizeBreaks($text, $breaktype = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+ns2b1da2b30101	/opt/lampp/htdocs/compras/icons/check_black_24dp.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" height="24px" viewBox="0 0 24 24" width="24px" fill=/;"	n	uri:http://www.w3.org/2000/svg
+ns8ddcede80101	/opt/lampp/htdocs/compras/icons/delete_black_24dp.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" height="24px" viewBox="0 0 24 24" width="24px" fill=/;"	n	uri:http://www.w3.org/2000/svg
+nsa10c494b0101	/opt/lampp/htdocs/compras/icons/fb_icon-icons.com_65434.svg	/^<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.or/;"	n	uri:http://www.w3.org/2000/svg
+nsabc134b40101	/opt/lampp/htdocs/compras/icons/instagram_f_icon-icons.com_65485.svg	/^<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.or/;"	n	uri:http://www.w3.org/2000/svg
+nsac81cb790101	/opt/lampp/htdocs/compras/icons/login.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" enable-background="new 0 0 24 24" height="24px" view/;"	n	uri:http://www.w3.org/2000/svg
+nscc4097e30101	/opt/lampp/htdocs/compras/icons/cart-plus-solid.svg	/^<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="cart-plus" class="svg-inl/;"	n	uri:http://www.w3.org/2000/svg
+oauth	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $oauth;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+origen	/opt/lampp/htdocs/compras/clases/mail.php	/^  private $origen;$/;"	v	class:Envio_mail
+parseAddresses	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function parseAddresses($addrstr, $useimap = true)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+parseHelloFields	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected function parseHelloFields($type)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+postSend	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function postSend()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+preSend	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function preSend()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+precio	/opt/lampp/htdocs/compras/comprar.php	/^	$precio = $_POST['precio'];$/;"	v
+puerto	/opt/lampp/htdocs/compras/clases/mail.php	/^  private $puerto=587;$/;"	v	class:Envio_mail
+punyencodeAddress	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function punyencodeAddress($address)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+query	/opt/lampp/htdocs/compras/action/carga_opcion_metrica.php	/^$query ="select fecha from $tabla GROUP BY fecha";$/;"	v
+query	/opt/lampp/htdocs/compras/agregarelemento.php	/^    $query = "insert into $tabla values (default,'$codigo',null,$cantidad,0,0)";$/;"	v
+query	/opt/lampp/htdocs/compras/agregarelemento.php	/^    $query ="update $tabla set cantidad=$cantidad, valor_total=$valor where id=$id";   $/;"	v
+query	/opt/lampp/htdocs/compras/agregarelemento.php	/^  $query = "select * from $tabla where id=$id";$/;"	v
+query	/opt/lampp/htdocs/compras/clases/interface.php	/^  private $query;$/;"	v	class:Driver
+query	/opt/lampp/htdocs/compras/comprar.php	/^	$query = "update $tabla set cantidad=$cantidad, valor_unidad=$precio, fecha='$fecha', valor_tot/;"	v
+query	/opt/lampp/htdocs/compras/nuevoproducto.php	/^  $query = "insert into $tabla values (default, '$detalle','$tipo','$unidad')";$/;"	v
+query	/opt/lampp/htdocs/compras/nuevoproducto.php	/^$query = "select * from $tabla where detalle='$detalle'";$/;"	v
+query	/opt/lampp/htdocs/compras/quitar_carro.php	/^  $query ="delete  from $tabla where id=$id";$/;"	v
+query	/opt/lampp/htdocs/compras/quitarprod.php	/^  $query = "delete from $tabla where cod_prod=$cod";$/;"	v
+quit	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function quit($close_on_error = true)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+quotedString	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function quotedString($str)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+recipient	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function recipient($address, $dsn = '')$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+recordLastTransactionID	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected function recordLastTransactionID()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+registrar	/opt/lampp/htdocs/compras/clases/login.php	/^  public function registrar(){$/;"	f	class:Login
+registro	/opt/lampp/htdocs/compras/clases/archivos.php	/^  public $registro=array(); $/;"	v	class:Archivos
+reset	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function reset()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+respuesta	/opt/lampp/htdocs/compras/action/carga_opcion_metrica.php	/^$respuesta = $con->sentencia_sql($query);$/;"	v
+respuesta	/opt/lampp/htdocs/compras/agregarelemento.php	/^  $respuesta = $con-> sentencia_sql($query);$/;"	v
+respuesta	/opt/lampp/htdocs/compras/comprar.php	/^	$respuesta=$con->sentencia_sql($query);$/;"	v
+respuesta	/opt/lampp/htdocs/compras/ingreso.php	/^$respuesta = $login->ingresar();$/;"	v
+respuesta	/opt/lampp/htdocs/compras/nuevoproducto.php	/^$respuesta = $con->sentencia_sql($query); $/;"	v
+respuesta	/opt/lampp/htdocs/compras/quitar_carro.php	/^  $respuesta = $con->sentencia_sql($query);$/;"	v
+respuesta	/opt/lampp/htdocs/compras/registrar.php	/^$respuesta = $login->registrar();$/;"	v
+rfcDate	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function rfcDate()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+salida	/opt/lampp/htdocs/compras/agregarelemento.php	/^    $salida = json_encode(array('ingreo'=>'si'));$/;"	v
+salida	/opt/lampp/htdocs/compras/agregarelemento.php	/^    $salida = json_encode(array('ingreso'=>'si'));$/;"	v
+salida	/opt/lampp/htdocs/compras/agregarelemento.php	/^  $salida = json_encode(array('error'=>'No se a recibido parametros')); $/;"	v
+secureHeader	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function secureHeader($str)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+seguridad	/opt/lampp/htdocs/compras/clases/mail.php	/^  private $seguridad = 'tls';$/;"	v	class:Envio_mail
+select	/opt/lampp/htdocs/compras/css/agregar.css	/^   form div input,select{$/;"	s
+select	/opt/lampp/htdocs/compras/css/agregar.css	/^input, select{$/;"	s
+select	/opt/lampp/htdocs/compras/css/productos.css	/^.filtro button,select{$/;"	s
+selector	/opt/lampp/htdocs/compras/clases/interface.php	/^  private $selector;$/;"	v	class:Driver
+send	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function send()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+sendAndMail	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function sendAndMail($from)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+sendCommand	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected function sendCommand($command, $commandstring, $expect)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+sendHello	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected function sendHello($hello, $host)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+sendmailSend	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function sendmailSend($header, $body)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+sentencia_sql	/opt/lampp/htdocs/compras/clases/coneccion.php	/^  public function sentencia_sql ($query){$/;"	f	class:Conexion
+serverHostname	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function serverHostname()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+server_caps	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected $server_caps;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+servidor	/opt/lampp/htdocs/compras/conexion.php	/^        $servidor="localhost";$/;"	v
+set	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function set($name, $value = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setDebugLevel	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function setDebugLevel($level = 0)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+setDebugOutput	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function setDebugOutput($method = 'echo')$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+setError	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function setError($msg)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setError	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected function setError($message, $detail = '', $smtp_code = '', $smtp_code_ex = '')$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+setFrom	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function setFrom($address, $name = '', $auto = true)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setLE	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected static function setLE($le)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setLanguage	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function setLanguage($langcode = 'en', $lang_path = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setMessageType	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function setMessageType()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setOAuth	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function setOAuth(OAuth $oauth)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setSMTPInstance	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function setSMTPInstance(SMTP $smtp)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setTimeout	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function setTimeout($timeout = 0)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+setVerp	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function setVerp($enabled = false)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+setWordWrap	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function setWordWrap()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+set_secion	/opt/lampp/htdocs/compras/clases/cargar_usuario.php	/^  function set_secion(){$/;"	f	class:Cargar_usuario
+sign	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function sign($cert_filename, $key_filename, $key_pass, $extracerts_filename = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+sign_cert_file	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $sign_cert_file = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+sign_extracerts_file	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $sign_extracerts_file = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+sign_key_file	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $sign_key_file = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+sign_key_pass	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $sign_key_pass = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+smtp	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $smtp;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+smtpClose	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function smtpClose()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+smtpConnect	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function smtpConnect($options = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+smtpSend	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function smtpSend($header, $body)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+smtp_conn	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected $smtp_conn;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+smtp_transaction_id_patterns	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    protected $smtp_transaction_id_patterns = [$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+startTLS	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function startTLS()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+stripTrailingWSP	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function stripTrailingWSP($text)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+tabla	/opt/lampp/htdocs/compras/action/carga_opcion_metrica.php	/^$tabla = "pedidos"; $/;"	v
+tabla	/opt/lampp/htdocs/compras/agregarelemento.php	/^$tabla ='pedidos';$/;"	v
+tabla	/opt/lampp/htdocs/compras/clases/login.php	/^  private $tabla;$/;"	v	class:Login
+tabla	/opt/lampp/htdocs/compras/comprar.php	/^$tabla ="pedidos";$/;"	v
+tabla	/opt/lampp/htdocs/compras/nuevoproducto.php	/^$tabla = "productos";$/;"	v
+tabla	/opt/lampp/htdocs/compras/quitar_carro.php	/^$tabla = "pedidos";$/;"	v
+tabla	/opt/lampp/htdocs/compras/quitarprod.php	/^$tabla="productos";$/;"	v
+table	/opt/lampp/htdocs/compras/css/agregar.css	/^table{$/;"	s
+table	/opt/lampp/htdocs/compras/css/compras.css	/^ table{$/;"	s
+table	/opt/lampp/htdocs/compras/css/compras.css	/^table {$/;"	s
+table	/opt/lampp/htdocs/compras/css/productos.css	/^ table{$/;"	s
+table	/opt/lampp/htdocs/compras/css/productos.css	/^table{$/;"	s
+table tr td	/opt/lampp/htdocs/compras/css/agregar.css	/^table tr th, table tr td{$/;"	s
+table tr td	/opt/lampp/htdocs/compras/css/compras.css	/^ table tr th, table tr td{$/;"	s
+table tr td	/opt/lampp/htdocs/compras/css/productos.css	/^table tr th, table tr td{$/;"	s
+table tr td div	/opt/lampp/htdocs/compras/css/compras.css	/^table tr td div{$/;"	s
+table tr th	/opt/lampp/htdocs/compras/css/agregar.css	/^table tr th, table tr td{$/;"	s
+table tr th	/opt/lampp/htdocs/compras/css/compras.css	/^ table tr th, table tr td{$/;"	s
+table tr th	/opt/lampp/htdocs/compras/css/productos.css	/^table tr th, table tr td{$/;"	s
+textLine	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function textLine($value)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+tiempo_espera	/opt/lampp/htdocs/compras/clases/mail.php	/^  private $tiempo_espera =30;$/;"	v	class:Envio_mail
+tipo	/opt/lampp/htdocs/compras/nuevoproducto.php	/^$tipo = $_POST['tipo'];$/;"	v
+to	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $to = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+total	/opt/lampp/htdocs/compras/comprar.php	/^	$total = $precio * $cantidad;$/;"	v
+turn	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function turn()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+ul	/opt/lampp/htdocs/compras/css/menu.css	/^ul{$/;"	s
+unidad	/opt/lampp/htdocs/compras/nuevoproducto.php	/^$unidad = $_POST['unidad'];$/;"	v
+uniqueid	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected $uniqueid = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+usuario	/opt/lampp/htdocs/compras/clases/cargar_usuario.php	/^  private $usuario;$/;"	v	class:Cargar_usuario
+usuarioBD	/opt/lampp/htdocs/compras/conexion.php	/^        $usuarioBD= "root"; \/\/id15912427_trabajo2$/;"	v
+usuario_mail	/opt/lampp/htdocs/compras/clases/mail.php	/^  private $usuario_mail="arielcismondi@yahoo.com";$/;"	v	class:Envio_mail
+utf8CharBoundary	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function utf8CharBoundary($encodedText, $maxLength)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+validateAddress	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static function validateAddress($address, $patternselect = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+validateEncoding	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    protected function validateEncoding($encoding)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+validator	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public static $validator = 'php';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+valor	/opt/lampp/htdocs/compras/agregarelemento.php	/^    $valor = $cantidad * $respuesta[0]['valor_unidad'];$/;"	v
+vectorizar	/opt/lampp/htdocs/compras/clases/archivos.php	/^  private function vectorizar($datos){$/;"	f	class:Archivos
+verify	/opt/lampp/htdocs/compras/clases/SMTP.php	/^    public function verify($name)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+wrapText	/opt/lampp/htdocs/compras/clases/PHPMailer.php	/^    public function wrapText($message, $length, $qp_mode = false)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+xlink	/opt/lampp/htdocs/compras/icons/fb_icon-icons.com_65434.svg	/^<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.or/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	/opt/lampp/htdocs/compras/icons/instagram_f_icon-icons.com_65485.svg	/^<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.or/;"	n	uri:http://www.w3.org/1999/xlink

@@ -1,0 +1,67 @@
+table{
+  width: 80%;
+  margin:auto;
+  margin-top: 30px;
+  padding-bottom: 50px;
+}
+table tr th, table tr td{
+  border: 1px solid black;
+  text-align: center;
+  color:white;
+}
+
+input{
+  height: 30px;
+  width: 80%;
+}
+.btn{
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.accion{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 5px;
+  height: 100%;
+  width: 200px;
+  border:none;
+  background-color: none;
+}
+.accion div{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100px;
+}
+h2{
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.filtro{
+   width: 80%;
+   margin: 0 auto;
+   margin-top: 30px;
+}
+.filtro button{
+  cursor: pointer;
+}
+.filtro button,select{
+  width: 100px;
+  height: 30px;
+}
+
+@media screen and (max-width:812px) {
+ .accion{
+   grid-template-columns: 1fr; 
+ }
+ input{
+   width: 60%;
+ }
+ table{
+   width: 100%;
+ }
+ h2{
+   width: 100%;
+ }
+}

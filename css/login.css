@@ -1,0 +1,60 @@
+.contenido{
+  width: 40%;
+  margin:0 auto;
+  margin-top: 40px;
+  border: 2px solid black;
+  padding: 2%;
+}
+.contenido form{
+  display:grid;
+  grid-template-columns: 100%;
+  grid-gap: 20px;
+
+}
+.contenido form div{
+  display:grid;
+  grid-template-columns: 30% 70% ;
+  grid-gap:5px;
+  justify-items: center;
+}
+label{
+  display:flex;
+  justify-self: center;
+  align-self: center;
+}
+.registro{
+  margin:0 auto;
+}
+
+h2{
+  text-align: center;
+}
+input {
+  height:30px ;
+}
+.btn{
+   width: 90px;
+   height: 30px;
+}
+.btn:hover{
+  cursor: pointer; 
+  animation-name: btn_rotar;
+  animation-duration: 100ms;
+}
+@keyframes btn_rotar{
+  from{
+    transform:rotate(-5deg);
+  }
+  to{
+    transform:rotate(5deg);
+  }
+
+}
+@media screen and (max-width:812px) {
+   .contenido{
+     width: 90%;
+   }
+   input{
+     width: 80%;
+   }
+}

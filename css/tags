@@ -1,0 +1,85 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/opt/lampp/htdocs/compras/css/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+.abrir	menu.css	/^.abrir{$/;"	c
+.accion	compras.css	/^.accion{$/;"	c
+.accion	productos.css	/^ .accion{$/;"	c
+.accion	productos.css	/^.accion{$/;"	c
+.accion div	productos.css	/^.accion div{$/;"	s
+.borrado	compras.css	/^.borrado{$/;"	c
+.btn	agregar.css	/^.btn{$/;"	c
+.btn	componentes.css	/^.btn{$/;"	c
+.btn	compras.css	/^.btn{$/;"	c
+.btn	login.css	/^.btn{$/;"	c
+.btn	productos.css	/^.btn{$/;"	c
+.btn:hover	compras.css	/^.btn:hover{$/;"	c
+.btn:hover	login.css	/^.btn:hover{$/;"	c
+.btn_menu	menu.css	/^ .btn_menu{$/;"	c
+.btn_menu	menu.css	/^.btn_menu{$/;"	c
+.btn_menu img	menu.css	/^.btn_menu img{$/;"	s
+.cerrar	menu.css	/^.cerrar{$/;"	c
+.cierre_menu	menu.css	/^.cierre_menu{$/;"	c
+.cierre_menu img	menu.css	/^.cierre_menu img{$/;"	s
+.contenido	login.css	/^   .contenido{$/;"	c
+.contenido	login.css	/^.contenido{$/;"	c
+.contenido form	login.css	/^.contenido form{$/;"	s
+.contenido form div	login.css	/^.contenido form div{$/;"	s
+.filtro	compras.css	/^.filtro {$/;"	c
+.filtro	productos.css	/^.filtro{$/;"	c
+.filtro button	productos.css	/^.filtro button,select{$/;"	s
+.filtro button	productos.css	/^.filtro button{$/;"	s
+.filtro select	compras.css	/^.filtro select, button{$/;"	s
+.invisible	compras.css	/^.invisible{$/;"	c
+.menu	menu.css	/^.menu{$/;"	c
+.mseleccion	menu.css	/^.mseleccion{$/;"	c
+.mseleccion a	menu.css	/^.mseleccion a{$/;"	s
+.registro	login.css	/^.registro{$/;"	c
+.separador	agregar.css	/^.separador{$/;"	c
+button	compras.css	/^.filtro select, button{$/;"	s
+form	agregar.css	/^   form{$/;"	s
+form	agregar.css	/^form{$/;"	s
+form div	agregar.css	/^form div{$/;"	s
+form div input	agregar.css	/^   form div input,select{$/;"	s
+h2	agregar.css	/^h2 {$/;"	s
+h2	compras.css	/^ h2{$/;"	s
+h2	compras.css	/^h2{$/;"	s
+h2	login.css	/^h2{$/;"	s
+h2	productos.css	/^ h2{$/;"	s
+h2	productos.css	/^h2{$/;"	s
+input	agregar.css	/^input, select{$/;"	s
+input	compras.css	/^ input{$/;"	s
+input	compras.css	/^input{$/;"	s
+input	login.css	/^   input{$/;"	s
+input	login.css	/^input {$/;"	s
+input	productos.css	/^ input{$/;"	s
+input	productos.css	/^input{$/;"	s
+label	login.css	/^label{$/;"	s
+li	menu.css	/^ li{$/;"	s
+li	menu.css	/^li{$/;"	s
+li a	menu.css	/^  li a{$/;"	s
+li a	menu.css	/^li a{$/;"	s
+li a:hover	menu.css	/^li a:hover{$/;"	s
+select	agregar.css	/^   form div input,select{$/;"	s
+select	agregar.css	/^input, select{$/;"	s
+select	productos.css	/^.filtro button,select{$/;"	s
+table	agregar.css	/^table{$/;"	s
+table	compras.css	/^ table{$/;"	s
+table	compras.css	/^table {$/;"	s
+table	productos.css	/^ table{$/;"	s
+table	productos.css	/^table{$/;"	s
+table tr td	agregar.css	/^table tr th, table tr td{$/;"	s
+table tr td	compras.css	/^ table tr th, table tr td{$/;"	s
+table tr td	productos.css	/^table tr th, table tr td{$/;"	s
+table tr td div	compras.css	/^table tr td div{$/;"	s
+table tr th	agregar.css	/^table tr th, table tr td{$/;"	s
+table tr th	compras.css	/^ table tr th, table tr td{$/;"	s
+table tr th	productos.css	/^table tr th, table tr td{$/;"	s
+ul	menu.css	/^ul{$/;"	s

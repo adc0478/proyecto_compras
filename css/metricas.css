@@ -1,0 +1,41 @@
+.filtro{
+   width:80%;
+   margin:0 auto;
+   margin-top: 30px;
+   padding: 5px;
+}
+.filtro select{
+  width: 200px;
+  height: 30px;
+}
+.filtro input{
+  width: 70px;
+  height: 30px;
+  background-color: aqua;
+  border: 0px;
+  cursor: pointer;
+}
+.filtro table{
+  margin:0 auto;
+}
+.filtro table td,th{
+  border: 1px solid;
+}
+.filtro h3{
+  width: auto;
+}
+
+.divicion{
+  width: 80%;
+  margin: 0 auto;
+  border: 2px solid;
+  margin-bottom: 50px;
+}
+h1{
+ text-align: center;
+}
+@media screen and (max-width:768px) {
+ .filtro{
+   width: 95%;
+ }
+}

@@ -1,0 +1,76 @@
+.filtro {
+   width: 80%;
+   margin: 0 auto;
+   margin-top: 30px;
+}
+.filtro select, button{
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+}
+table {
+  width:80%;
+  margin:0 auto;
+  margin-top: 30px;
+  padding-bottom: 50px;
+}
+ table tr th, table tr td{
+  color:white;
+  text-align: center;
+  border:1px solid black;
+}
+table tr td div{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100px;
+}
+.invisible{
+ display:none;
+}
+input{
+  width: 150px;
+  height: 30px;
+  margin-left: 5px;
+}
+.btn{
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
+}
+.btn:hover{
+  cursor: pointer;
+}
+.accion{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 5px;
+  width:370px ;
+  border: none;
+}
+h2{
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.borrado{
+  display:none;
+}
+@media screen and (max-width:812px) {
+ table{
+   width: 100%;
+ }
+
+.accion{
+  width: 100%;
+  display:grid;
+  grid-template-columns: 1fr;
+}
+ input{
+   margin-top: 5px;
+   width: 90%;
+ }
+ h2{
+   width: 100%;
+ }
+}
+

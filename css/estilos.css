@@ -1,0 +1,39 @@
+html{
+  min-height: 100%;
+  position: relative;
+}
+body{
+  height: 100%;
+  margin:0px;
+  padding: 0px;
+  background-color: rgba(1,1,1,.8);
+  background: url('../fondos/3840x2160.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.contenido_index {
+   height:100vh ;
+
+}
+.foot img {
+  height: 30px;
+  width: 30px;
+  padding: 5px;
+}
+.foot{
+   position: fixed;
+   border-top: 2px solid white;
+   bottom: 0;
+   width: 100%;
+   height: 40px;
+   background-color: rgba(255,127,80,.85);
+   margin-top: 50px;
+}
+@media screen and (max-width:768px) {
+ .foot{
+   position:fixed;
+   margin-top: 30px;
+   bottom:0 ;
+ }
+}

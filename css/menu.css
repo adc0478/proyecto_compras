@@ -1,0 +1,121 @@
+ul{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  padding: 0%;
+  height: 40px;
+}
+li{
+  display:grid;
+  width: 100%;
+  height: 100%;
+}
+li a{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  text-align: center;
+  height: 100%;
+  color:black;
+  font-size:18px;
+}
+li a:hover{
+  color:white;
+  border-bottom: 1px solid #1976d2;
+  cursor: pointer;
+}
+.menu{
+  height: 50px;
+}
+.mseleccion{
+  border-radius: 30px;
+  background-color: rgba(1,1,1,.1);
+}
+.mseleccion a{
+ color:red;
+}
+.btn_menu{
+ display:none;
+}
+.cierre_menu{
+  display: none;
+}
+.abrir{
+   height: 0%;
+   width: 100%;
+   display:grid;
+  position: absolute;
+  background-color: rgba(20, 30, 15, .95);
+  animation-name: animenu;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+}
+.cerrar{
+  animation-name: cerrarMenu;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+}
+@keyframes cerrarMenu{
+  from{
+    height: 70%;
+    opacity: 1;
+  }
+  to{
+    height: 0%;
+    opacity: 0;
+  }
+
+}
+@keyframes animenu{
+ from{
+   height: 0%;
+   opacity: 0;
+ }
+ to{
+  height: 70%;  
+  opacity: 1;
+ }
+}
+@media screen and (max-width:768px) {
+ .btn_menu{
+  display:flex;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background-color:#ff9800 ;
+ }
+ li{
+   height: 30px;
+ }
+  li a{
+   font-size: 20px;
+   color:white;
+ }
+.menu{
+  width: 50%;
+  height: auto;
+  padding: 3px;
+}
+ul{
+  display:none;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr, 1fr, 1fr, 1fr;
+  position: absolute;
+  top:-15px;
+}
+.cierre_menu{
+  display: block;
+}
+.cierre_menu img{
+  width: 35px;
+  height: 35px;
+}
+.btn_menu img{
+  width: 20px;
+  height: 20px;
+  align-self: center;
+  margin: 0 auto;
+}
+
+}
